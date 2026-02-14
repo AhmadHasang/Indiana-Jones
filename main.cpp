@@ -1,3 +1,3 @@
-git add main.cpp
-git commit -m "Add main.cpp to mark project as C++"
+git rm main.cpp
+git commit -m "Remove C++ file to make repo C#"
 git push
